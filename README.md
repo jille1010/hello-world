@@ -1,2 +1,5 @@
 # hello-world
-yes this is a repository
+
+I am me and this is it
+
+Hopefully the ants won't make a colony in the pantry again
